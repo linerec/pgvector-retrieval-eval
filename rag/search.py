@@ -1,7 +1,7 @@
 """Three retrievers over the same table, so they can be compared on the same eval set.
 
   vector : cosine similarity on pgvector (HNSW index)
-  fulltext: Postgres tsvector / websearch_to_tsquery, ranked by ts_rank_cd
+  fulltext: Postgres tsvector, query lexemes OR-ed (to_tsquery), ranked by ts_rank_cd
   hybrid : Reciprocal Rank Fusion of the two lists (k=60)
 
 Results are de-duplicated to one hit per document (best chunk wins) because the
