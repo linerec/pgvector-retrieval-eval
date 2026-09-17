@@ -1,0 +1,36 @@
+{"qid":"Q01","question":"What does washer error code OE mean?","gold":["KB-006"],"kind":"code"}
+{"qid":"Q02","question":"Dryer shows d90 on the display","gold":["KB-011"],"kind":"code"}
+{"qid":"Q03","question":"refrigerator display says E-FF","gold":["KB-004"],"kind":"code"}
+{"qid":"Q04","question":"What is CH05 on a split air conditioner?","gold":["KB-023"],"kind":"code"}
+{"qid":"Q05","question":"oven flashing F9 after self clean","gold":["KB-016"],"kind":"code"}
+{"qid":"Q06","question":"dishwasher AE code","gold":["KB-014"],"kind":"code"}
+{"qid":"Q07","question":"washer UE","gold":["KB-008"],"kind":"code"}
+{"qid":"Q08","question":"My fridge light is on but everything inside is getting warm","gold":["KB-001"],"kind":"paraphrase"}
+{"qid":"Q09","question":"No ice coming out of the freezer anymore","gold":["KB-002"],"kind":"paraphrase"}
+{"qid":"Q10","question":"The water from the fridge door comes out in a trickle","gold":["KB-003"],"kind":"paraphrase"}
+{"qid":"Q11","question":"Front loader finished but the tub is still full of water","gold":["KB-005","KB-006"],"kind":"paraphrase"}
+{"qid":"Q12","question":"washing machine walks across the floor when spinning","gold":["KB-007"],"kind":"paraphrase"}
+{"qid":"Q13","question":"tumble dryer spins but the clothes stay cold","gold":["KB-009"],"kind":"paraphrase"}
+{"qid":"Q14","question":"why does it take so long to dry a load","gold":["KB-010"],"kind":"paraphrase"}
+{"qid":"Q15","question":"glasses come out of the dishwasher covered in water droplets","gold":["KB-012"],"kind":"paraphrase"}
+{"qid":"Q16","question":"cookies burn on the bottom before the top is done","gold":["KB-015"],"kind":"paraphrase"}
+{"qid":"Q17","question":"burner keeps clicking but no flame","gold":["KB-017"],"kind":"paraphrase"}
+{"qid":"Q18","question":"induction hob shows a letter U and my pan does not get hot","gold":["KB-018"],"kind":"paraphrase"}
+{"qid":"Q19","question":"microwave plate turns and it hums, food stays cold","gold":["KB-019"],"kind":"paraphrase"}
+{"qid":"Q20","question":"sparks inside the microwave","gold":["KB-020"],"kind":"paraphrase"}
+{"qid":"Q21","question":"window unit is blowing room temperature air","gold":["KB-022"],"kind":"paraphrase"}
+{"qid":"Q22","question":"I can hear the show but the screen is black","gold":["KB-026"],"kind":"paraphrase"}
+{"qid":"Q23","question":"soundbar silent when connected through ARC","gold":["KB-030"],"kind":"paraphrase"}
+{"qid":"Q24","question":"roomba style vacuum stops every few feet saying something is in the way","gold":["KB-031"],"kind":"paraphrase"}
+{"qid":"Q25","question":"pilot goes out as soon as I let go of the knob","gold":["KB-033"],"kind":"paraphrase"}
+{"qid":"Q26","question":"how do I turn off the change filter light","gold":["KB-034"],"kind":"paraphrase"}
+{"qid":"Q27","question":"which button combination starts the fridge self test","gold":["KB-035"],"kind":"paraphrase"}
+{"qid":"Q28","question":"how long is the compressor covered","gold":["KB-037"],"kind":"policy"}
+{"qid":"Q29","question":"customer says they smell gas, what do I do","gold":["KB-048","KB-039"],"kind":"policy"}
+{"qid":"Q30","question":"third technician visit for the same problem, what is the process","gold":["KB-038"],"kind":"policy"}
+{"qid":"Q31","question":"what pictures are needed before ordering a control board","gold":["KB-040"],"kind":"policy"}
+{"qid":"Q32","question":"thick ice on the back panel of the freezer","gold":["KB-042"],"kind":"paraphrase"}
+{"qid":"Q33","question":"washer door stuck shut after the cycle","gold":["KB-044"],"kind":"paraphrase"}
+{"qid":"Q34","question":"dryer motor runs but the drum is not moving","gold":["KB-045"],"kind":"paraphrase"}
+{"qid":"Q35","question":"top shelf dishes come out dirty","gold":["KB-046"],"kind":"paraphrase"}
+{"qid":"Q36","question":"how fast must a leaking-near-electrical ticket be dispatched","gold":["KB-039"],"kind":"policy"}
